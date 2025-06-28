@@ -26,6 +26,7 @@ export default function OrgLandingPage() {
       title: blogTitle,
     });
   };
+  
 
   return (
     <main>
